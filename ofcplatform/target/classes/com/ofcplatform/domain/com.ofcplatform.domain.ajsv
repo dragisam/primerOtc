@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2017-Apr-29 11:35" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="Wizard+PACKAGE" version="1.9.1.v20170319-1519">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="com.ofcplatform.domain.Function" modelMemberId="com.ofcplatform.domain.Function" project="ofcplatform" xLocation="1039" yLocation="1506"/>
+        <class className="com.ofcplatform.domain.Product" modelMemberId="com.ofcplatform.domain.Product" project="ofcplatform" xLocation="158" yLocation="988"/>
+        <class className="com.ofcplatform.domain.Event" modelMemberId="com.ofcplatform.domain.Event" project="ofcplatform" xLocation="2694" yLocation="976"/>
+        <class className="com.ofcplatform.domain.Supplier" modelMemberId="com.ofcplatform.domain.Supplier" project="ofcplatform" xLocation="30" yLocation="300"/>
+        <class className="com.ofcplatform.domain.SupplierBranchOfficeContact" modelMemberId="com.ofcplatform.domain.SupplierBranchOfficeContact" project="ofcplatform" xLocation="3361" yLocation="300"/>
+        <class className="com.ofcplatform.domain.Client" modelMemberId="com.ofcplatform.domain.Client" project="ofcplatform" xLocation="1792" yLocation="1019"/>
+        <class className="com.ofcplatform.domain.ClientBranchOfficeContact" modelMemberId="com.ofcplatform.domain.ClientBranchOfficeContact" project="ofcplatform" xLocation="988" yLocation="30"/>
+        <class className="com.ofcplatform.domain.ParticipatingCountry" modelMemberId="com.ofcplatform.domain.ParticipatingCountry" project="ofcplatform" xLocation="1845" yLocation="165"/>
+        <class className="com.ofcplatform.domain.IntegrationProbability" modelMemberId="com.ofcplatform.domain.IntegrationProbability" project="ofcplatform" xLocation="1419" yLocation="1248"/>
+        <class className="com.ofcplatform.domain.ClientBranchOfficeAddress" modelMemberId="com.ofcplatform.domain.ClientBranchOfficeAddress" project="ofcplatform" xLocation="1792" yLocation="421"/>
+        <class className="com.ofcplatform.domain.Solution" modelMemberId="com.ofcplatform.domain.Solution" project="ofcplatform" xLocation="640" yLocation="993"/>
+        <class className="com.ofcplatform.domain.SupplierBranchOfficeAddress" modelMemberId="com.ofcplatform.domain.SupplierBranchOfficeAddress" project="ofcplatform" xLocation="2423" yLocation="296"/>
+    </diagram>
+</ajsv>

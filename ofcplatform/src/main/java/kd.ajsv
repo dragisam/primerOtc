@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2017-Apr-29 11:51" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="manual" version="1.9.1.v20170319-1519">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="com.ofcplatform.domain.ClientBranchOfficeContact" modelMemberId="com.ofcplatform.domain.ClientBranchOfficeContact" project="ofcplatform" xLocation="142" yLocation="713"/>
+        <class className="com.ofcplatform.domain.Client" modelMemberId="com.ofcplatform.domain.Client" project="ofcplatform" xLocation="265" yLocation="188"/>
+        <class className="com.ofcplatform.domain.ClientBranchOfficeAddress" modelMemberId="com.ofcplatform.domain.ClientBranchOfficeAddress" project="ofcplatform" xLocation="-107" yLocation="18"/>
+    </diagram>
+</ajsv>
